@@ -4,7 +4,7 @@
 /**
  * Specific validation methods for data used in DK
  *
- * PHP Versions 4 and 5
+ * PHP Version 5
  *
  * This source file is subject to the New BSD license, That is bundled
  * with this package in the file LICENSE, and is available through
